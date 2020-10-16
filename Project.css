@@ -1,0 +1,18 @@
+body{
+    background: rgb(131,58,180);
+    background: linear-gradient(135deg, rgb(45, 185, 228) 0%, rgb(222, 238, 76) 50%, rgb(95, 248, 35) 100%);
+    text-align: center;
+}
+nav {
+    display: block;
+}
+#ABOUT{
+    background: cyan;
+}
+#SKILLS{
+    background: lightcoral;
+    
+}
+#CONTACT{
+    background: lightgray;
+}
